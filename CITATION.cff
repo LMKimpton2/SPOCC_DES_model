@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SPOCC_DES_model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Louise
+    family-names: Kimpton
+    email: l.m.kimpton@exeter.ac.uk
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0002-4265-5086'
+  - given-names: 'Alistair '
+    family-names: Herbert
+    email: a.herbert@exeter.ac.uk
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0009-0005-4339-0816'
+repository-code: 'https://github.com/LMKimpton2/SPOCC_DES_model'
+license: MIT
